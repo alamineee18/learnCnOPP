@@ -1,0 +1,50 @@
+1. Define variable before use it 
+
+
+# Operator 
+a. Arithmetic Operator
+b. Relation Operator
+c. Logical Operator
+d. Bitwise Operator
+e. Assignment Operator
+f. Ternart Operator
+
+---------------------------------------------------
+# Arithmetic Instruction // +, -, *, /, %
+
+a + b // here + is a operator 
+Valid 		Invalid
+a = b+c		b+c = a
+a = b*c		a = bc
+a = b/c		a = b^c
+pow(b, c) // b^c, pow() is a function of math.h
+
+#Modular operator % 
+it return the reminder 
+
+5%2 it return 1
+
+
+------------------------------------------------------------
+Relation Operator
+==,>, >=, <, <=, !=
+a == b, a>b, a>=b, a<b, a<=b, a!=
+------------------------------------------------------------
+Logical Operator 
+AND 		&& // (true) && (true)  ------- return true
+OR 			|| // (true) || (false) or (false)||(true)  --------return true
+NOT 		!  // true to false or falsr to true
+-----------------------------------------------------------
+Assignment Operator ( short hand operation)
+=   // x = 5
++=  // x +=5 , x = x+5
+-=  // x -=5 , x = x-5
+*= 	// x *=5 , x = x*5
+/=	// x /=5 , x = x/5
+%=	// x %=5, x = x%5
+
+---------------------------------------
+
+
+
+
