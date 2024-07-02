@@ -47,12 +47,15 @@ public:
 int main()
 {
     Teacher t1;
+    Teacher t2;
 
     t1.name = "Md. AL-Amin Kabir";
     t1.subject = "C++";
     t1.setSalary(2000);
     
     cout << t1.dept <<"\n";
+    cout << t2.dept <<"\n";
+    
     
     
 } 
