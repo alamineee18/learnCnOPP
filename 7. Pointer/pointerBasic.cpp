@@ -12,6 +12,14 @@ int main()
     cout << "X = " << x << endl;
     cout << "*ptr = " << *ptr <<endl;
 
+    *ptr += 5;
+    cout << "X = " << x << endl;
+    cout << "*ptr = " << *ptr << endl;
+
+    (*ptr) ++;
+    cout << "X = " << x << endl;
+    cout << "*ptr = " << *ptr << endl;
+
 
     return 0;
 }
