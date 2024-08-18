@@ -4,7 +4,7 @@ using namespace std;
 class areaofHouse
 {
 private: 
-    int length;
+    int length; 
     int base;
 public:
     void setData (int x, int y){
