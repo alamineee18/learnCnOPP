@@ -14,8 +14,6 @@ public:
     }
  };
 
- class Student : public Person
-
  int main()
  {
 
